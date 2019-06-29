@@ -1,4 +1,4 @@
-#short-lnk-meteor-react
+# short-lnk-meteor-react
 
 This is a link shortening application built with Meteor and React. It takes a full length URL (i.e. - https://yoururlhere.com) and shortens it to a UUID (v4) of several characters and numbers. 
 
